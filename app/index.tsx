@@ -1,12 +1,12 @@
-import { Text, View } from "react-native";
+import { Platform, Text, View } from "react-native";
 
 export default function Index() {
   return (
     <View
       style={{
         flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
+        padding: 20,
+        paddingTop: Platform.OS === "android" ? 40 : 50,
       }}
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>
