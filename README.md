@@ -1,3 +1,7 @@
+# AI Pocket Agent React Native Mobile App:
+
+React Native Full Stack AI Pocket Agent App. Integrate Expo, Firebase, Clerk Authentication, and AI features to create my own intelligent mobile agent app.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
